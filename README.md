@@ -4,11 +4,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suranjan77&layout=compact)
 
-## 🎓 Education** <br/>
+## 🎓 Education <br/>
 🎓 MSc. Computing & Information Systems, University of Greenwich <br/>
 🎓 BSc. Computer Science & IT, Tribhuvan University <br/>
 
-## 🏢 Experience** <br/>
+## 🏢 Experience <br/>
 🧑‍🔬 Software Developer, University of Greenwich <br/>
 💼 Contract Software Engineer, BEGiN Learning <br/>
 🕹️ Freelance Software Engineer, BusyBee Softwares Pvt. Ltd. <br/>
