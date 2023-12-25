@@ -1,4 +1,4 @@
-🌍 Suranjan Poudel | Software Engineer | London, UK
+<center> 🌍 Suranjan Poudel | Software Engineer | London, UK
 
 👨‍💻 "Crafting Innovative Solutions in this World"
 
@@ -20,3 +20,4 @@
 [![Suranjan's github stats](https://github-readme-stats.vercel.app/api?username=suranjan77&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=suranjan77)
+<center/>
