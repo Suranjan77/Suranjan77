@@ -1,16 +1,22 @@
-### Hi there 👋
+🌍 Suranjan Poudel | Software Engineer | London, UK
 
-<!--
-**Suranjan77/Suranjan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 "Crafting Innovative Solutions in this World"
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suranjan77&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎓 Education** <br/>
+🎓 MSc. Computing & Information Systems, University of Greenwich <br/>
+🎓 BSc. Computer Science & IT, Tribhuvan University <br/>
+
+**🏢 Experience** <br/>
+🧑‍🔬 Software Developer, University of Greenwich <br/>
+💼 Contract Software Engineer, BEGiN Learning <br/>
+🕹️ Freelance Software Engineer, BusyBee Softwares Pvt. Ltd. <br/>
+🖥️ Software Engineer, Verisk Nepal <br/>
+☕ Java Developer, Sage Nepal <br/>
+
+🌟 Passionate about creating impactful software. Always learning, always growing. 🚀
+
+[![Suranjan's github stats](https://github-readme-stats.vercel.app/api?username=suranjan77&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=suranjan77)
