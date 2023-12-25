@@ -1,23 +1,23 @@
-<center> 🌍 Suranjan Poudel | Software Engineer | London, UK
+# 🌍 Suranjan Poudel | Software Engineer | London, UK
 
-👨‍💻 "Crafting Innovative Solutions in this World"
+**👨‍💻 "Crafting Innovative Solutions in this World"**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suranjan77&layout=compact)
 
-**🎓 Education** <br/>
+## 🎓 Education** <br/>
 🎓 MSc. Computing & Information Systems, University of Greenwich <br/>
 🎓 BSc. Computer Science & IT, Tribhuvan University <br/>
 
-**🏢 Experience** <br/>
+## 🏢 Experience** <br/>
 🧑‍🔬 Software Developer, University of Greenwich <br/>
 💼 Contract Software Engineer, BEGiN Learning <br/>
 🕹️ Freelance Software Engineer, BusyBee Softwares Pvt. Ltd. <br/>
 🖥️ Software Engineer, Verisk Nepal <br/>
 ☕ Java Developer, Sage Nepal <br/>
 
-🌟 Passionate about creating impactful software. Always learning, always growing. 🚀
+**🌟 Passionate about creating impactful software. Always learning, always growing. 🚀**
 
 [![Suranjan's github stats](https://github-readme-stats.vercel.app/api?username=suranjan77&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=suranjan77)
-<center/>
+
