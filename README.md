@@ -8,7 +8,7 @@
 🎓 MSc. Computing & Information Systems, University of Greenwich <br/>
 🎓 BSc. Computer Science & IT, Tribhuvan University <br/>
 
-## 🏢 Experience <br/>
+## 🏢 Experience [3.5 years] <br/>
 🧑‍🔬 Software Developer, University of Greenwich <br/>
 💼 Contract Software Engineer, BEGiN Learning <br/>
 🕹️ Freelance Software Engineer, BusyBee Softwares Pvt. Ltd. <br/>
