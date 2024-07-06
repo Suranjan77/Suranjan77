@@ -1,4 +1,4 @@
-# 🌍 Suranjan Poudel | Software Engineer | London, UK
+# 🌍 Suranjan Poudel | Software Engineer | Plymouth, UK
 
 **👨‍💻 "Crafting Innovative Solutions"**
 
