@@ -8,6 +8,5 @@
 🎓 MSc. Computing & Information Systems, University of Greenwich <br/>
 🎓 BSc. Computer Science & IT, Tribhuvan University <br/>
 
-**🌟 Passionate about creating impactful software. Always learning, always growing. 🚀**
-
-[![Suranjan's github stats](https://github-readme-stats.vercel.app/api?username=suranjan77&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## Website
+https://www.suranjan.co.uk/
