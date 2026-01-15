@@ -1,10 +1,24 @@
-# 🌍 Suranjan Poudel | Software Engineer | Plymouth, UK
+<div align="center">
 
-**👨‍💻 "Crafting Innovative Solutions"**
+# Suranjan Poudel
 
-## 🎓 Education <br/>
-🎓 MSc. Computing & Information Systems, University of Greenwich <br/>
-🎓 BSc. Computer Science & IT, Tribhuvan University <br/>
+### Lecturer & Software Developer
 
-## Website
-https://www.suranjan.co.uk/
+<br>
+
+### *Sharing experiences & knowledge*
+
+<br>
+
+[ **About me** ](https://www.suranjan.co.uk/)
+
+<br>
+<br>
+
+---
+
+</div>
+
+<div align="center">
+  <sub>© 2025 [Suranjan Poudel] • [Plymouth, United Kingdom]</sub>
+</div>
