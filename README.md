@@ -20,5 +20,5 @@
 </div>
 
 <div align="center">
-  <sub>© 2025 [Suranjan Poudel] • [Plymouth, United Kingdom]</sub>
+  <sub>© 2025 Suranjan Poudel • Plymouth, United Kingdom</sub>
 </div>
