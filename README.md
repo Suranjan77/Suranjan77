@@ -2,18 +2,13 @@
 
 # Suranjan Poudel
 
-### Lecturer & Software Developer
+#### Lecturer & Software Developer
 
-<br>
 
 ### *Sharing experiences & knowledge*
-
 <br>
 
 [ **About me** ](https://www.suranjan.co.uk/)
-
-<br>
-<br>
 
 ---
 
